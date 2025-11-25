@@ -4,6 +4,8 @@
 
 用于防止忘记关闭中文输入法时的尴尬情况
 
+欢迎通过 PR 或 [Issues](https://github.com/realtvop/sbrc/issues) 提供其他别名！
+
 ## 安装
 
 使用curl：

@@ -28,3 +28,8 @@ alias "读"=du
 alias "地方"=df
 alias "说实话"=ssh
 alias "是否投票"=sftp
+alias "匹配"=pip
+alias "个人陪"=grep
+alias "批判"=pip3
+
+alias "屁眼通红"=python # 这什么玩意

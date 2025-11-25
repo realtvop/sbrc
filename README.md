@@ -12,3 +12,14 @@ cd ~
 git clone https://github.com/realtvop/sbrc.git
 echo 'source ~/sbrc/.sbrc' >> ~/.zshrc
 ```
+
+Or use the bundled `init.sh` script to detect your current shell and add the source line automatically:
+
+```sh
+cd ~
+git clone https://github.com/realtvop/sbrc.git
+cd sbrc
+./init.sh    # prompts you to confirm where to add the source
+# or
+./init.sh -y # run without confirmation
+```
